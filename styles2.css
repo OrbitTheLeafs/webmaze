@@ -4,5 +4,10 @@ body{
 }
 #title2 {
   color: black;
+  border:5px solid red;
   text-align: center;
+    font-family: Georgia;
+}
+a{
+  color: darkred;
 }
